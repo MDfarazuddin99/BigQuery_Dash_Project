@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "emerald-cacao-363700",
+  "private_key_id": "f7930738c1a095931146ab7fdd644afabc66c190",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC/vELTEDCHhM8k\nTZ2EQZJk9IKGZWqyJZ7/VgWsNO1145HFfuT32ViNFtpx1gl+ZYON97oMVxYYWXxs\n8xF9Mm+XpA5DucTGz+SzIt8369g1iDiuhIdq6cnziTS7fNgsR93wXQqBe1Nzg/Vo\n60vgw6j2YBiEzmJxy8ugAHC6L6wIiusb9o/QobseX9OzvGdQNY1PqAgeO10MXXD/\nvB5Dj2FzEYzhDDpT4qb9YKq7CLYheqd2rUH3jaUVSNlW0DNaR7zNSaBMj7W+wEVs\ndeow2KeXCg/WzrH5WbosSMLinVDaXf6XCR55xYXZcUb2UCrB5e8ttXazlzChxCVL\nlaLBbXqNAgMBAAECggEAA+HNAjwnw2KqwAErS915AuluyBz/Dp7Ti+IYaM7Eh7hv\nv+LXF3aTg/3JtqLUW+EJy216hfFFyFXtfpY4TS42KLOWD1nQSbc1WfQo4VdkMAdI\noINHQPX9VFyQ5a08LOoCl3Exey19oySG6uooBeO9mh7Czajma4fqYPG0AUJhq7rn\n/fbnRHbW/jXK2QCHdpMAeUZutUi//OIk5O4CqDUMAd41AyJnFliX5GFhj6GWrLLC\nAKqdkJN7LT7dMP0LatPNRALXqrmIF6HJ1unUXMB+eEn72mLJ+vaqaGbyXKOXEzIp\n4Ka488qrHEs+ou+YnBcX9l6A0I9KFf/QIEu1MmCvcQKBgQDuefQ2az97Y53/JcY8\nbtrwxfjWof1s24Sde7kts8k7CjkdUCfqnQOSrn47KM0CGWoqTLPODcnrvw8TZY8U\nEqTX1P0rC6Jdw7Ov3mly0dHxRagFVGr/jEdpMkCY91DxQQs9MhHYLJYNU/Dmqfmz\nUlT4IwsnpugaodroRb70RyM4PQKBgQDN0wycLMExrzDRO+kOGRGcZ2zs9DQL4ent\nXrK+vnzYFLgs8JWusx9oPLJPvFO6aDharTD0m5JJFs8D+zWAFx7p1EfTV23mx80q\nGl8dd4YRBSMN/blFPn/YGAtUCpga1DujWW9quugCeP0yv5FRJtt5NhSwf5naDkWH\nyzRNMW8gkQKBgQCUj762ZAuRF5bmyyZ6oWidVAdX1mRk+z/bR6cttHGo6Q55l2S2\ngIgoSbHzstA7/Y8ouM3OkMJ4rXZ70+nVTGQK3PG2bjIBDZiT+A9i6xlJn+YzI8rg\nVghqnVamtHNlR+rzfYymSehUdzV8zOj0cFbkmhgp5I11gd04k7KIxQRI1QKBgQCn\naXSmSxjRCshQR8SmfOmAJ/fHPFJhH94f/piw4Uu2jhPIKd/1+ygeps/6XxpTUpYT\n2y8opqlz3aOAf4Hir+urEcliM4jm37kW9+BJnYBks6LxrGBX3CAsalI8h2l02Q+x\nK/ud+mzgJfz8nCjcsxhtHPnzHbbMUDNp4nSmHQFgoQKBgEoLWD5QpZAcu9nhJh7c\nyyd15OmBAZqNkL9TcS8xTh5A1Ge+9T4za8L3nf+wbK67rqjWUltkmvfTn1R51Pyj\nEn17H1rjNkBIlhZG3Bml9JLjjN16VDslcBApyJO5idGBpTKzs59nI/kdAa6Mgjf6\ngJc9EQ9XLDFZMDTF6a/PlQ8S\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-dash-query@emerald-cacao-363700.iam.gserviceaccount.com",
+  "client_id": "118091360189874805366",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-dash-query%40emerald-cacao-363700.iam.gserviceaccount.com"
+}
